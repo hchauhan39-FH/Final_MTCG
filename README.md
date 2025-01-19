@@ -1,7 +1,7 @@
 # MTCG - MonsterTradingCardGame
 by Harmanpreet Chauhan | for my semester project in swen
 
-GitHub-Repository: https://github.com/njashim/mtcg
+GitHub-Repository: [Link to Repository](https://github.com/hchauhan39-FH/Final_MTCG)
 
 ## Design
 
