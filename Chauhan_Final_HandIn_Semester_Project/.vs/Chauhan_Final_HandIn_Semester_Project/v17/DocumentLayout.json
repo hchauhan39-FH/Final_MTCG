@@ -1,0 +1,279 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chauh\\Documents\\Backup\\Uni\\SWEN\\Chauhan_Final_HandIn_Semester_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\chauh\\Documents\\Backup\\Uni\\SWEN\\Chauhan_Final_HandIn_Semester_Project\\Final Hand-In MTCG (60 points)\\Submissions\\Harmanpreet Chauhan\\hchauhan_mtcg\\hchauhan_mtcg\\MonsterTradingCardGame\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Final Hand-In MTCG (60 points)\\Submissions\\Harmanpreet Chauhan\\hchauhan_mtcg\\hchauhan_mtcg\\MonsterTradingCardGame\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\chauh\\Documents\\Backup\\Uni\\SWEN\\Chauhan_Final_HandIn_Semester_Project\\Final Hand-In MTCG (60 points)\\Submissions\\Harmanpreet Chauhan\\hchauhan_mtcg\\hchauhan_mtcg\\MonsterTradingCardGame\\Trading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Final Hand-In MTCG (60 points)\\Submissions\\Harmanpreet Chauhan\\hchauhan_mtcg\\hchauhan_mtcg\\MonsterTradingCardGame\\Trading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\chauh\\Documents\\Backup\\Uni\\SWEN\\Chauhan_Final_HandIn_Semester_Project\\Final Hand-In MTCG (60 points)\\Submissions\\Harmanpreet Chauhan\\hchauhan_mtcg\\hchauhan_mtcg\\MonsterTradingCardGame\\ResponseHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Final Hand-In MTCG (60 points)\\Submissions\\Harmanpreet Chauhan\\hchauhan_mtcg\\hchauhan_mtcg\\MonsterTradingCardGame\\ResponseHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\chauh\\Documents\\Backup\\Uni\\SWEN\\Chauhan_Final_HandIn_Semester_Project\\Final Hand-In MTCG (60 points)\\Submissions\\Harmanpreet Chauhan\\hchauhan_mtcg\\hchauhan_mtcg\\MonsterTradingCardGame\\RequestHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Final Hand-In MTCG (60 points)\\Submissions\\Harmanpreet Chauhan\\hchauhan_mtcg\\hchauhan_mtcg\\MonsterTradingCardGame\\RequestHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\chauh\\Documents\\Backup\\Uni\\SWEN\\Chauhan_Final_HandIn_Semester_Project\\Final Hand-In MTCG (60 points)\\Submissions\\Harmanpreet Chauhan\\hchauhan_mtcg\\hchauhan_mtcg\\MonsterTradingCardGame\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Final Hand-In MTCG (60 points)\\Submissions\\Harmanpreet Chauhan\\hchauhan_mtcg\\hchauhan_mtcg\\MonsterTradingCardGame\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\chauh\\Documents\\Backup\\Uni\\SWEN\\Chauhan_Final_HandIn_Semester_Project\\Final Hand-In MTCG (60 points)\\Submissions\\Harmanpreet Chauhan\\hchauhan_mtcg\\hchauhan_mtcg\\MonsterTradingCardGame\\Player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Final Hand-In MTCG (60 points)\\Submissions\\Harmanpreet Chauhan\\hchauhan_mtcg\\hchauhan_mtcg\\MonsterTradingCardGame\\Player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\chauh\\Documents\\Backup\\Uni\\SWEN\\Chauhan_Final_HandIn_Semester_Project\\Final Hand-In MTCG (60 points)\\Submissions\\Harmanpreet Chauhan\\hchauhan_mtcg\\hchauhan_mtcg\\MonsterTradingCardGame\\Database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Final Hand-In MTCG (60 points)\\Submissions\\Harmanpreet Chauhan\\hchauhan_mtcg\\hchauhan_mtcg\\MonsterTradingCardGame\\Database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\chauh\\Documents\\Backup\\Uni\\SWEN\\Chauhan_Final_HandIn_Semester_Project\\Final Hand-In MTCG (60 points)\\Submissions\\Harmanpreet Chauhan\\hchauhan_mtcg\\hchauhan_mtcg\\MonsterTradingCardGame\\Card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Final Hand-In MTCG (60 points)\\Submissions\\Harmanpreet Chauhan\\hchauhan_mtcg\\hchauhan_mtcg\\MonsterTradingCardGame\\Card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\chauh\\Documents\\Backup\\Uni\\SWEN\\Chauhan_Final_HandIn_Semester_Project\\Final Hand-In MTCG (60 points)\\Submissions\\Harmanpreet Chauhan\\hchauhan_mtcg\\hchauhan_mtcg\\MonsterTradingCardGame\\Battle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Final Hand-In MTCG (60 points)\\Submissions\\Harmanpreet Chauhan\\hchauhan_mtcg\\hchauhan_mtcg\\MonsterTradingCardGame\\Battle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\chauh\\Documents\\Backup\\Uni\\SWEN\\Chauhan_Final_HandIn_Semester_Project\\Final Hand-In MTCG (60 points)\\Submissions\\Harmanpreet Chauhan\\hchauhan_mtcg\\hchauhan_mtcg\\MonsterTradingCardGame.Tests\\MonsterTradingCardGame.Tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Final Hand-In MTCG (60 points)\\Submissions\\Harmanpreet Chauhan\\hchauhan_mtcg\\hchauhan_mtcg\\MonsterTradingCardGame.Tests\\MonsterTradingCardGame.Tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\chauh\\Documents\\Backup\\Uni\\SWEN\\Chauhan_Final_HandIn_Semester_Project\\Final Hand-In MTCG (60 points)\\Submissions\\Harmanpreet Chauhan\\hchauhan_mtcg\\hchauhan_mtcg\\MonsterTradingCardGame.Tests\\TradingTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Final Hand-In MTCG (60 points)\\Submissions\\Harmanpreet Chauhan\\hchauhan_mtcg\\hchauhan_mtcg\\MonsterTradingCardGame.Tests\\TradingTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\chauh\\Documents\\Backup\\Uni\\SWEN\\Chauhan_Final_HandIn_Semester_Project\\Final Hand-In MTCG (60 points)\\Submissions\\Harmanpreet Chauhan\\hchauhan_mtcg\\hchauhan_mtcg\\MonsterTradingCardGame.Tests\\UserTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Final Hand-In MTCG (60 points)\\Submissions\\Harmanpreet Chauhan\\hchauhan_mtcg\\hchauhan_mtcg\\MonsterTradingCardGame.Tests\\UserTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\chauh\\Documents\\Backup\\Uni\\SWEN\\Chauhan_Final_HandIn_Semester_Project\\Final Hand-In MTCG (60 points)\\Submissions\\Harmanpreet Chauhan\\hchauhan_mtcg\\hchauhan_mtcg\\MonsterTradingCardGame.Tests\\GlobalUsings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Final Hand-In MTCG (60 points)\\Submissions\\Harmanpreet Chauhan\\hchauhan_mtcg\\hchauhan_mtcg\\MonsterTradingCardGame.Tests\\GlobalUsings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\chauh\\Documents\\Backup\\Uni\\SWEN\\Chauhan_Final_HandIn_Semester_Project\\Final Hand-In MTCG (60 points)\\Submissions\\Harmanpreet Chauhan\\hchauhan_mtcg\\hchauhan_mtcg\\MonsterTradingCardGame.Tests\\CardTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Final Hand-In MTCG (60 points)\\Submissions\\Harmanpreet Chauhan\\hchauhan_mtcg\\hchauhan_mtcg\\MonsterTradingCardGame.Tests\\CardTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\chauh\\Documents\\Backup\\Uni\\SWEN\\Chauhan_Final_HandIn_Semester_Project\\Final Hand-In MTCG (60 points)\\Submissions\\Harmanpreet Chauhan\\hchauhan_mtcg\\hchauhan_mtcg\\MonsterTradingCardGame.Tests\\DatabaseTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Final Hand-In MTCG (60 points)\\Submissions\\Harmanpreet Chauhan\\hchauhan_mtcg\\hchauhan_mtcg\\MonsterTradingCardGame.Tests\\DatabaseTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 281,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MonsterTradingCardGame.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\chauh\\Documents\\Backup\\Uni\\SWEN\\Chauhan_Final_HandIn_Semester_Project\\Final Hand-In MTCG (60 points)\\Submissions\\Harmanpreet Chauhan\\hchauhan_mtcg\\hchauhan_mtcg\\MonsterTradingCardGame.Tests\\MonsterTradingCardGame.Tests.csproj",
+              "RelativeDocumentMoniker": "Final Hand-In MTCG (60 points)\\Submissions\\Harmanpreet Chauhan\\hchauhan_mtcg\\hchauhan_mtcg\\MonsterTradingCardGame.Tests\\MonsterTradingCardGame.Tests.csproj",
+              "ToolTip": "C:\\Users\\chauh\\Documents\\Backup\\Uni\\SWEN\\Chauhan_Final_HandIn_Semester_Project\\Final Hand-In MTCG (60 points)\\Submissions\\Harmanpreet Chauhan\\hchauhan_mtcg\\hchauhan_mtcg\\MonsterTradingCardGame.Tests\\MonsterTradingCardGame.Tests.csproj",
+              "RelativeToolTip": "Final Hand-In MTCG (60 points)\\Submissions\\Harmanpreet Chauhan\\hchauhan_mtcg\\hchauhan_mtcg\\MonsterTradingCardGame.Tests\\MonsterTradingCardGame.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-19T12:07:12.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserTests.cs",
+              "DocumentMoniker": "C:\\Users\\chauh\\Documents\\Backup\\Uni\\SWEN\\Chauhan_Final_HandIn_Semester_Project\\Final Hand-In MTCG (60 points)\\Submissions\\Harmanpreet Chauhan\\hchauhan_mtcg\\hchauhan_mtcg\\MonsterTradingCardGame.Tests\\UserTests.cs",
+              "RelativeDocumentMoniker": "Final Hand-In MTCG (60 points)\\Submissions\\Harmanpreet Chauhan\\hchauhan_mtcg\\hchauhan_mtcg\\MonsterTradingCardGame.Tests\\UserTests.cs",
+              "ToolTip": "C:\\Users\\chauh\\Documents\\Backup\\Uni\\SWEN\\Chauhan_Final_HandIn_Semester_Project\\Final Hand-In MTCG (60 points)\\Submissions\\Harmanpreet Chauhan\\hchauhan_mtcg\\hchauhan_mtcg\\MonsterTradingCardGame.Tests\\UserTests.cs",
+              "RelativeToolTip": "Final Hand-In MTCG (60 points)\\Submissions\\Harmanpreet Chauhan\\hchauhan_mtcg\\hchauhan_mtcg\\MonsterTradingCardGame.Tests\\UserTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T12:04:39.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TradingTests.cs",
+              "DocumentMoniker": "C:\\Users\\chauh\\Documents\\Backup\\Uni\\SWEN\\Chauhan_Final_HandIn_Semester_Project\\Final Hand-In MTCG (60 points)\\Submissions\\Harmanpreet Chauhan\\hchauhan_mtcg\\hchauhan_mtcg\\MonsterTradingCardGame.Tests\\TradingTests.cs",
+              "RelativeDocumentMoniker": "Final Hand-In MTCG (60 points)\\Submissions\\Harmanpreet Chauhan\\hchauhan_mtcg\\hchauhan_mtcg\\MonsterTradingCardGame.Tests\\TradingTests.cs",
+              "ToolTip": "C:\\Users\\chauh\\Documents\\Backup\\Uni\\SWEN\\Chauhan_Final_HandIn_Semester_Project\\Final Hand-In MTCG (60 points)\\Submissions\\Harmanpreet Chauhan\\hchauhan_mtcg\\hchauhan_mtcg\\MonsterTradingCardGame.Tests\\TradingTests.cs",
+              "RelativeToolTip": "Final Hand-In MTCG (60 points)\\Submissions\\Harmanpreet Chauhan\\hchauhan_mtcg\\hchauhan_mtcg\\MonsterTradingCardGame.Tests\\TradingTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T12:04:38.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Battle.cs",
+              "DocumentMoniker": "C:\\Users\\chauh\\Documents\\Backup\\Uni\\SWEN\\Chauhan_Final_HandIn_Semester_Project\\Final Hand-In MTCG (60 points)\\Submissions\\Harmanpreet Chauhan\\hchauhan_mtcg\\hchauhan_mtcg\\MonsterTradingCardGame\\Battle.cs",
+              "RelativeDocumentMoniker": "Final Hand-In MTCG (60 points)\\Submissions\\Harmanpreet Chauhan\\hchauhan_mtcg\\hchauhan_mtcg\\MonsterTradingCardGame\\Battle.cs",
+              "ToolTip": "C:\\Users\\chauh\\Documents\\Backup\\Uni\\SWEN\\Chauhan_Final_HandIn_Semester_Project\\Final Hand-In MTCG (60 points)\\Submissions\\Harmanpreet Chauhan\\hchauhan_mtcg\\hchauhan_mtcg\\MonsterTradingCardGame\\Battle.cs",
+              "RelativeToolTip": "Final Hand-In MTCG (60 points)\\Submissions\\Harmanpreet Chauhan\\hchauhan_mtcg\\hchauhan_mtcg\\MonsterTradingCardGame\\Battle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T12:03:30.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Card.cs",
+              "DocumentMoniker": "C:\\Users\\chauh\\Documents\\Backup\\Uni\\SWEN\\Chauhan_Final_HandIn_Semester_Project\\Final Hand-In MTCG (60 points)\\Submissions\\Harmanpreet Chauhan\\hchauhan_mtcg\\hchauhan_mtcg\\MonsterTradingCardGame\\Card.cs",
+              "RelativeDocumentMoniker": "Final Hand-In MTCG (60 points)\\Submissions\\Harmanpreet Chauhan\\hchauhan_mtcg\\hchauhan_mtcg\\MonsterTradingCardGame\\Card.cs",
+              "ToolTip": "C:\\Users\\chauh\\Documents\\Backup\\Uni\\SWEN\\Chauhan_Final_HandIn_Semester_Project\\Final Hand-In MTCG (60 points)\\Submissions\\Harmanpreet Chauhan\\hchauhan_mtcg\\hchauhan_mtcg\\MonsterTradingCardGame\\Card.cs",
+              "RelativeToolTip": "Final Hand-In MTCG (60 points)\\Submissions\\Harmanpreet Chauhan\\hchauhan_mtcg\\hchauhan_mtcg\\MonsterTradingCardGame\\Card.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T12:04:31.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Users\\chauh\\Documents\\Backup\\Uni\\SWEN\\Chauhan_Final_HandIn_Semester_Project\\Final Hand-In MTCG (60 points)\\Submissions\\Harmanpreet Chauhan\\hchauhan_mtcg\\hchauhan_mtcg\\MonsterTradingCardGame\\Database.cs",
+              "RelativeDocumentMoniker": "Final Hand-In MTCG (60 points)\\Submissions\\Harmanpreet Chauhan\\hchauhan_mtcg\\hchauhan_mtcg\\MonsterTradingCardGame\\Database.cs",
+              "ToolTip": "C:\\Users\\chauh\\Documents\\Backup\\Uni\\SWEN\\Chauhan_Final_HandIn_Semester_Project\\Final Hand-In MTCG (60 points)\\Submissions\\Harmanpreet Chauhan\\hchauhan_mtcg\\hchauhan_mtcg\\MonsterTradingCardGame\\Database.cs",
+              "RelativeToolTip": "Final Hand-In MTCG (60 points)\\Submissions\\Harmanpreet Chauhan\\hchauhan_mtcg\\hchauhan_mtcg\\MonsterTradingCardGame\\Database.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T12:04:31.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\chauh\\Documents\\Backup\\Uni\\SWEN\\Chauhan_Final_HandIn_Semester_Project\\Final Hand-In MTCG (60 points)\\Submissions\\Harmanpreet Chauhan\\hchauhan_mtcg\\hchauhan_mtcg\\MonsterTradingCardGame\\Player.cs",
+              "RelativeDocumentMoniker": "Final Hand-In MTCG (60 points)\\Submissions\\Harmanpreet Chauhan\\hchauhan_mtcg\\hchauhan_mtcg\\MonsterTradingCardGame\\Player.cs",
+              "ToolTip": "C:\\Users\\chauh\\Documents\\Backup\\Uni\\SWEN\\Chauhan_Final_HandIn_Semester_Project\\Final Hand-In MTCG (60 points)\\Submissions\\Harmanpreet Chauhan\\hchauhan_mtcg\\hchauhan_mtcg\\MonsterTradingCardGame\\Player.cs",
+              "RelativeToolTip": "Final Hand-In MTCG (60 points)\\Submissions\\Harmanpreet Chauhan\\hchauhan_mtcg\\hchauhan_mtcg\\MonsterTradingCardGame\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T12:04:33.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chauh\\Documents\\Backup\\Uni\\SWEN\\Chauhan_Final_HandIn_Semester_Project\\Final Hand-In MTCG (60 points)\\Submissions\\Harmanpreet Chauhan\\hchauhan_mtcg\\hchauhan_mtcg\\MonsterTradingCardGame\\Program.cs",
+              "RelativeDocumentMoniker": "Final Hand-In MTCG (60 points)\\Submissions\\Harmanpreet Chauhan\\hchauhan_mtcg\\hchauhan_mtcg\\MonsterTradingCardGame\\Program.cs",
+              "ToolTip": "C:\\Users\\chauh\\Documents\\Backup\\Uni\\SWEN\\Chauhan_Final_HandIn_Semester_Project\\Final Hand-In MTCG (60 points)\\Submissions\\Harmanpreet Chauhan\\hchauhan_mtcg\\hchauhan_mtcg\\MonsterTradingCardGame\\Program.cs",
+              "RelativeToolTip": "Final Hand-In MTCG (60 points)\\Submissions\\Harmanpreet Chauhan\\hchauhan_mtcg\\hchauhan_mtcg\\MonsterTradingCardGame\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T12:04:33.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RequestHandler.cs",
+              "DocumentMoniker": "C:\\Users\\chauh\\Documents\\Backup\\Uni\\SWEN\\Chauhan_Final_HandIn_Semester_Project\\Final Hand-In MTCG (60 points)\\Submissions\\Harmanpreet Chauhan\\hchauhan_mtcg\\hchauhan_mtcg\\MonsterTradingCardGame\\RequestHandler.cs",
+              "RelativeDocumentMoniker": "Final Hand-In MTCG (60 points)\\Submissions\\Harmanpreet Chauhan\\hchauhan_mtcg\\hchauhan_mtcg\\MonsterTradingCardGame\\RequestHandler.cs",
+              "ToolTip": "C:\\Users\\chauh\\Documents\\Backup\\Uni\\SWEN\\Chauhan_Final_HandIn_Semester_Project\\Final Hand-In MTCG (60 points)\\Submissions\\Harmanpreet Chauhan\\hchauhan_mtcg\\hchauhan_mtcg\\MonsterTradingCardGame\\RequestHandler.cs",
+              "RelativeToolTip": "Final Hand-In MTCG (60 points)\\Submissions\\Harmanpreet Chauhan\\hchauhan_mtcg\\hchauhan_mtcg\\MonsterTradingCardGame\\RequestHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T12:04:34.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ResponseHandler.cs",
+              "DocumentMoniker": "C:\\Users\\chauh\\Documents\\Backup\\Uni\\SWEN\\Chauhan_Final_HandIn_Semester_Project\\Final Hand-In MTCG (60 points)\\Submissions\\Harmanpreet Chauhan\\hchauhan_mtcg\\hchauhan_mtcg\\MonsterTradingCardGame\\ResponseHandler.cs",
+              "RelativeDocumentMoniker": "Final Hand-In MTCG (60 points)\\Submissions\\Harmanpreet Chauhan\\hchauhan_mtcg\\hchauhan_mtcg\\MonsterTradingCardGame\\ResponseHandler.cs",
+              "ToolTip": "C:\\Users\\chauh\\Documents\\Backup\\Uni\\SWEN\\Chauhan_Final_HandIn_Semester_Project\\Final Hand-In MTCG (60 points)\\Submissions\\Harmanpreet Chauhan\\hchauhan_mtcg\\hchauhan_mtcg\\MonsterTradingCardGame\\ResponseHandler.cs",
+              "RelativeToolTip": "Final Hand-In MTCG (60 points)\\Submissions\\Harmanpreet Chauhan\\hchauhan_mtcg\\hchauhan_mtcg\\MonsterTradingCardGame\\ResponseHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T12:04:34.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Trading.cs",
+              "DocumentMoniker": "C:\\Users\\chauh\\Documents\\Backup\\Uni\\SWEN\\Chauhan_Final_HandIn_Semester_Project\\Final Hand-In MTCG (60 points)\\Submissions\\Harmanpreet Chauhan\\hchauhan_mtcg\\hchauhan_mtcg\\MonsterTradingCardGame\\Trading.cs",
+              "RelativeDocumentMoniker": "Final Hand-In MTCG (60 points)\\Submissions\\Harmanpreet Chauhan\\hchauhan_mtcg\\hchauhan_mtcg\\MonsterTradingCardGame\\Trading.cs",
+              "ToolTip": "C:\\Users\\chauh\\Documents\\Backup\\Uni\\SWEN\\Chauhan_Final_HandIn_Semester_Project\\Final Hand-In MTCG (60 points)\\Submissions\\Harmanpreet Chauhan\\hchauhan_mtcg\\hchauhan_mtcg\\MonsterTradingCardGame\\Trading.cs",
+              "RelativeToolTip": "Final Hand-In MTCG (60 points)\\Submissions\\Harmanpreet Chauhan\\hchauhan_mtcg\\hchauhan_mtcg\\MonsterTradingCardGame\\Trading.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T12:04:35.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\chauh\\Documents\\Backup\\Uni\\SWEN\\Chauhan_Final_HandIn_Semester_Project\\Final Hand-In MTCG (60 points)\\Submissions\\Harmanpreet Chauhan\\hchauhan_mtcg\\hchauhan_mtcg\\MonsterTradingCardGame\\User.cs",
+              "RelativeDocumentMoniker": "Final Hand-In MTCG (60 points)\\Submissions\\Harmanpreet Chauhan\\hchauhan_mtcg\\hchauhan_mtcg\\MonsterTradingCardGame\\User.cs",
+              "ToolTip": "C:\\Users\\chauh\\Documents\\Backup\\Uni\\SWEN\\Chauhan_Final_HandIn_Semester_Project\\Final Hand-In MTCG (60 points)\\Submissions\\Harmanpreet Chauhan\\hchauhan_mtcg\\hchauhan_mtcg\\MonsterTradingCardGame\\User.cs",
+              "RelativeToolTip": "Final Hand-In MTCG (60 points)\\Submissions\\Harmanpreet Chauhan\\hchauhan_mtcg\\hchauhan_mtcg\\MonsterTradingCardGame\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T12:04:35.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "C:\\Users\\chauh\\Documents\\Backup\\Uni\\SWEN\\Chauhan_Final_HandIn_Semester_Project\\Final Hand-In MTCG (60 points)\\Submissions\\Harmanpreet Chauhan\\hchauhan_mtcg\\hchauhan_mtcg\\MonsterTradingCardGame.Tests\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "Final Hand-In MTCG (60 points)\\Submissions\\Harmanpreet Chauhan\\hchauhan_mtcg\\hchauhan_mtcg\\MonsterTradingCardGame.Tests\\GlobalUsings.cs",
+              "ToolTip": "C:\\Users\\chauh\\Documents\\Backup\\Uni\\SWEN\\Chauhan_Final_HandIn_Semester_Project\\Final Hand-In MTCG (60 points)\\Submissions\\Harmanpreet Chauhan\\hchauhan_mtcg\\hchauhan_mtcg\\MonsterTradingCardGame.Tests\\GlobalUsings.cs",
+              "RelativeToolTip": "Final Hand-In MTCG (60 points)\\Submissions\\Harmanpreet Chauhan\\hchauhan_mtcg\\hchauhan_mtcg\\MonsterTradingCardGame.Tests\\GlobalUsings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T12:04:37.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CardTests.cs",
+              "DocumentMoniker": "C:\\Users\\chauh\\Documents\\Backup\\Uni\\SWEN\\Chauhan_Final_HandIn_Semester_Project\\Final Hand-In MTCG (60 points)\\Submissions\\Harmanpreet Chauhan\\hchauhan_mtcg\\hchauhan_mtcg\\MonsterTradingCardGame.Tests\\CardTests.cs",
+              "RelativeDocumentMoniker": "Final Hand-In MTCG (60 points)\\Submissions\\Harmanpreet Chauhan\\hchauhan_mtcg\\hchauhan_mtcg\\MonsterTradingCardGame.Tests\\CardTests.cs",
+              "ToolTip": "C:\\Users\\chauh\\Documents\\Backup\\Uni\\SWEN\\Chauhan_Final_HandIn_Semester_Project\\Final Hand-In MTCG (60 points)\\Submissions\\Harmanpreet Chauhan\\hchauhan_mtcg\\hchauhan_mtcg\\MonsterTradingCardGame.Tests\\CardTests.cs",
+              "RelativeToolTip": "Final Hand-In MTCG (60 points)\\Submissions\\Harmanpreet Chauhan\\hchauhan_mtcg\\hchauhan_mtcg\\MonsterTradingCardGame.Tests\\CardTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T12:04:36.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DatabaseTests.cs",
+              "DocumentMoniker": "C:\\Users\\chauh\\Documents\\Backup\\Uni\\SWEN\\Chauhan_Final_HandIn_Semester_Project\\Final Hand-In MTCG (60 points)\\Submissions\\Harmanpreet Chauhan\\hchauhan_mtcg\\hchauhan_mtcg\\MonsterTradingCardGame.Tests\\DatabaseTests.cs",
+              "RelativeDocumentMoniker": "Final Hand-In MTCG (60 points)\\Submissions\\Harmanpreet Chauhan\\hchauhan_mtcg\\hchauhan_mtcg\\MonsterTradingCardGame.Tests\\DatabaseTests.cs",
+              "ToolTip": "C:\\Users\\chauh\\Documents\\Backup\\Uni\\SWEN\\Chauhan_Final_HandIn_Semester_Project\\Final Hand-In MTCG (60 points)\\Submissions\\Harmanpreet Chauhan\\hchauhan_mtcg\\hchauhan_mtcg\\MonsterTradingCardGame.Tests\\DatabaseTests.cs",
+              "RelativeToolTip": "Final Hand-In MTCG (60 points)\\Submissions\\Harmanpreet Chauhan\\hchauhan_mtcg\\hchauhan_mtcg\\MonsterTradingCardGame.Tests\\DatabaseTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T12:04:36.359Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
