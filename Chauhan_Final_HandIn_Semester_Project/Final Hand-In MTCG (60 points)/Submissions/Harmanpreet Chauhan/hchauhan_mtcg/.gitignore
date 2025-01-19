@@ -1,0 +1,9 @@
+.vs/
+bin/
+obj/
+MonsterTradingCardGame/.vs/
+MonsterTradingCardGame/bin/
+MonsterTradingCardGame/obj/
+MonsterTradingCardGame.Tests/.vs/
+MonsterTradingCardGame.Tests/bin/
+MonsterTradingCardGame.Tests/obj/
